@@ -5,6 +5,7 @@
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
+  
 -->
 
 # Hello GitHub Actions
@@ -33,8 +34,8 @@ Your new action will run any time a pull request has been opened.
 
 1. Make a new branch named `test-workflow`.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
-1. Create the pull request on your branch.
-1. See your action run on your pull request.
+1. Create the pull request on your branch how.
+1. See your action run on your pull request maybe now.
 1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
 
 <footer>
